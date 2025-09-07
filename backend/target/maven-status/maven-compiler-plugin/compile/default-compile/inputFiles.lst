@@ -1,0 +1,12 @@
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/controller/AuthController.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/ExpenseTrackerApplication.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/controller/TransactionController.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/controller/UserController.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/service/TransactionService.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/model/Transaction.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/model/TransactionType.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/model/User.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/repository/TransactionRepository.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/model/transactions.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/repository/UserRepository.java
+/Users/sarveshkarthik/Desktop/expense_tracker/backend/src/main/java/com/example/expensetracker/service/UserService.java
